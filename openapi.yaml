@@ -1,0 +1,17 @@
+openapi: 3.0.2
+info:
+  version: 0.1.0
+  title: "National Parks API"
+  description: "This API covers data related to the national parks of the United States. It will allow you to read, create, update and soft delete data such as landmarks, lodging, trails, eating and more"
+  contact: 
+    name: Matt Trask
+    email: 'matt@natparksapi.io'
+    url: 'https://natparksapi.com'
+  license: 
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+paths:
+  /parks:
+    get:
+
+  
